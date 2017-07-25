@@ -1,4 +1,4 @@
-# fcc_algorithm_challenges
+# My Approach on Free Code Camp Challenges
 Basic Algorithm Scripting Challenges of Free Code Camp
 
 Hey there!
